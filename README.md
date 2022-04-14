@@ -6,4 +6,4 @@
 
 ## 笔记系列
 
-1. []
+1. [《CSS知识总结》](https://github.com/Brucezhiyu/myBlog/issues/1)
