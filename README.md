@@ -15,7 +15,7 @@
 7. [《JavaScript对象基本用法》](https://github.com/Brucezhiyu/myBlog/issues/7)
 8. [《JavaScript 函数的执行时机》](https://github.com/Brucezhiyu/myBlog/issues/8)
 9. [《jQuery 的功能》](https://github.com/Brucezhiyu/myBlog/issues/9)
-10. [《DOM 事件模型》《DOM 事件模型》](https://github.com/Brucezhiyu/myBlog/issues/10)
+10. [《DOM 事件模型》](https://github.com/Brucezhiyu/myBlog/issues/10)
 11. [《浅析 MVC》](https://github.com/Brucezhiyu/myBlog/issues/11)
 12. [《浅析Vue》](https://github.com/Brucezhiyu/myBlog/issues/12)
 13. [《Vue中options五类属性》](https://github.com/Brucezhiyu/myBlog/issues/14) 
