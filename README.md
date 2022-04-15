@@ -18,7 +18,12 @@
 10. [《DOM 事件模型》《DOM 事件模型》](https://github.com/Brucezhiyu/myBlog/issues/10)
 11. [《浅析 MVC》](https://github.com/Brucezhiyu/myBlog/issues/11)
 12. [《浅析Vue》](https://github.com/Brucezhiyu/myBlog/issues/12)
+13. [《Vue中options五类属性》](https://github.com/Brucezhiyu/myBlog/issues/14) 
 
+
+## 解决问题系列
+
+1. [为什么data 要尽量使用function？](https://github.com/Brucezhiyu/myBlog/issues/15)
 
 ## 总结
 
