@@ -19,6 +19,8 @@
 11. [《浅析 MVC》](https://github.com/Brucezhiyu/myBlog/issues/11)
 12. [《浅析Vue》](https://github.com/Brucezhiyu/myBlog/issues/12)
 13. [《Vue中options五类属性》](https://github.com/Brucezhiyu/myBlog/issues/14) 
+14. [《Vue数据代理与监听》](https://github.com/Brucezhiyu/myBlog/issues/16)
+15. [《Vue数据响应式》](https://github.com/Brucezhiyu/myBlog/issues/17)
 
 
 ## 解决问题系列
