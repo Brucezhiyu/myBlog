@@ -21,6 +21,7 @@
 13. [《Vue中options五类属性》](https://github.com/Brucezhiyu/myBlog/issues/14) 
 14. [《Vue数据代理与监听》](https://github.com/Brucezhiyu/myBlog/issues/16)
 15. [《Vue数据响应式》](https://github.com/Brucezhiyu/myBlog/issues/17)
+16. [《Vue构造选项-进阶属性》](https://github.com/Brucezhiyu/myBlog/issues/18)
 
 
 ## 解决问题系列
