@@ -29,6 +29,7 @@
 1. [为什么data 要尽量使用function？](https://github.com/Brucezhiyu/myBlog/issues/15)
 2. [git push/git pull Failed to connect to github.com port 443:Time out报错 ](https://github.com/Brucezhiyu/myBlog/issues/21)
 3. [使用Vue CLI时sh deploy.sh出现error: src refspec master does not match any解决办法](https://github.com/Brucezhiyu/myBlog/issues/22)
+4. [Vue如何更改title？](https://github.com/Brucezhiyu/myBlog/issues/23)
 
 
 ## 总结
