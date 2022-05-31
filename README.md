@@ -22,6 +22,7 @@
 14. [《Vue数据代理与监听》](https://github.com/Brucezhiyu/myBlog/issues/16)
 15. [《Vue数据响应式》](https://github.com/Brucezhiyu/myBlog/issues/17)
 16. [《Vue构造选项-进阶属性》](https://github.com/Brucezhiyu/myBlog/issues/18)
+17. [《Vue3属性绑定》](https://github.com/Brucezhiyu/myBlog/issues/25)
 
 
 ## 解决问题系列
@@ -30,12 +31,12 @@
 2. [git push/git pull Failed to connect to github.com port 443:Time out报错 ](https://github.com/Brucezhiyu/myBlog/issues/21)
 3. [使用Vue CLI时sh deploy.sh出现error: src refspec master does not match any解决办法](https://github.com/Brucezhiyu/myBlog/issues/22)
 4. [Vue如何更改title？](https://github.com/Brucezhiyu/myBlog/issues/23)
+5. [解决微信浏览器无法使用window.prompt的问题 ](https://github.com/Brucezhiyu/myBlog/issues/24)
 
 
 ## 总结
 
 1. [学习方法更改](https://github.com/Brucezhiyu/myBlog/issues/13)
-2.
 
 ## 勘误及提问
 
