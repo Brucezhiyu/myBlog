@@ -23,7 +23,7 @@
 15. [《Vue数据响应式》](https://github.com/Brucezhiyu/myBlog/issues/17)
 16. [《Vue构造选项-进阶属性》](https://github.com/Brucezhiyu/myBlog/issues/18)
 17. [《Vue3属性绑定》](https://github.com/Brucezhiyu/myBlog/issues/25)
-18. [1](https://github.com/Brucezhiyu/myBlog/issues/26)
+18. [《动态REM》](https://github.com/Brucezhiyu/myBlog/issues/26)
 
 
 ## 解决问题系列
